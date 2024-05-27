@@ -38,6 +38,3 @@ False
 Humans should be able to explain AI models exactly before implementing them.
 True
 False
-Prof. Dr. Matthijs Mnist has a small penis.
-True
-False
